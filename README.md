@@ -1,4 +1,5 @@
 # SocialMediaApp
+SOCIAL MEDIA PLATFORM USING REACT AND FIREBASE
 
 # Introduction
 Social media platform are interactive computer-mediated technologies that facilitate
@@ -33,3 +34,15 @@ to improve communication with the stakeholders. Social Media resources have prov
 users with plenty of options when communicating with their stakeholders. The schools can
 communicate their events and activities to the community with the help of social media.
 By using social media we can deliver messages directly to the required person.
+
+## Real Time information
+This feature allows us the ability to communicate real time information within seconds.
+Vital information can be attained in a moment’s notice is useful The ability to get vital
+information out in a moment’s notice is a powerful reason to engage in the use of Social
+Media in the educational world. It fills the void where the traditional paper press fails to
+inform the community.
+
+## For Efficient messaging
+By using Social media as a communication tool we become more efficient in getting our
+message out. By generating a list of what can and cannot be sent, will in-turn help in
+creating more efficient messages.
