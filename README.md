@@ -1,5 +1,5 @@
 # SocialMediaApp
-SOCIAL MEDIA PLATFORM USING REACT AND FIREBASE
+SOCIAL MEDIA PLATFORM USING REACT, NODE.JS AND FIREBASE
 
 # Introduction
 Social media platform are interactive computer-mediated technologies that facilitate
