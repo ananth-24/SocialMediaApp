@@ -13,6 +13,7 @@ common features:
     designed and maintained by the social media organization.
   * Social media facilitate the development of online social networks by connecting a
     user's profile with those of other individuals or groups.
+    
 Users usually access social media services via web-based apps on desktops and laptops,
 or download services that offer social media functionality to their mobile devices
 (e.g., smartphones and tablets). As users engage with these electronic services, they create
