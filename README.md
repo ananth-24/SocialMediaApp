@@ -20,3 +20,16 @@ or download services that offer social media functionality to their mobile devic
 highly interactive platforms through which individuals, communities, and organizations
 can share, co-create, discuss, participate and modify user-generated content or self-curated
 content posted online.
+
+# Problem Description
+The main focus is to create a social media platform useful for educational purposes
+With the advancement of technology and learning system it is important to stay in touch
+with the mentors and subject.This application focuses on bridging the communication gap between students and mentors.
+
+# Problem Description
+## Improved communication
+The most important feature is integrating social media into the educational world. In order
+to improve communication with the stakeholders. Social Media resources have provided
+users with plenty of options when communicating with their stakeholders. The schools can
+communicate their events and activities to the community with the help of social media.
+By using social media we can deliver messages directly to the required person.
